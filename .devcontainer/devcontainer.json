@@ -11,7 +11,8 @@
 		"vscode": {
 			"extensions": [
 				"GitHub.copilot@prerelease",
-				"GitHub.copilot-labs"
+				"GitHub.copilot-labs",
+				"GitHub.copilot-chat"
 			]
 		}
 	},
